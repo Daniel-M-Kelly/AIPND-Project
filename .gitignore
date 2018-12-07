@@ -1,0 +1,3 @@
+#Ignore Large Model Checkpoint Files
+checkpoints/
+.ipynb_checkpoints/
